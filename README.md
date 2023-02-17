@@ -1,5 +1,5 @@
 # java
-package nothing;
+
 import java.util.Scanner;
 public class Sample {
 
